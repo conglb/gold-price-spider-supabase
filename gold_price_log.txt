@@ -1,0 +1,8 @@
+[2025-11-20 13:11:24] Cập nhật XML lúc: N/A | 24K: Mua=14,520, Bán=14,870 | DOJI HCM Lẻ: Mua=N/A, Bán=N/A
+[2025-11-20 13:11:51] Cập nhật XML lúc: N/A | 24K: Mua=14,520, Bán=14,870 | DOJI HCM Lẻ: Mua=N/A, Bán=N/A
+[2025-11-20 16:50:43] Cập nhật XML lúc: N/A | 24K: Mua=14,520, Bán=14,870 | DOJI HCM Lẻ: Mua=148,300, Bán=150,300
+[2025-11-20 16:57:47] Cập nhật XML lúc: N/A | 24K: Mua=14,520, Bán=14,870 | DOJI HCM Lẻ: Mua=148,300, Bán=150,300
+[2025-11-20 16:58:16] Cập nhật XML lúc: N/A | 24K: Mua=14,520, Bán=14,870 | DOJI HCM Lẻ: Mua=148300.0, Bán=150300.0
+[2025-11-20 17:14:37] Cập nhật XML lúc: N/A | 24K: Mua=14,520, Bán=14,870 | DOJI HCM Lẻ: Mua=148300.0, Bán=150300.0
+[2025-11-20 17:22:34] Cập nhật XML lúc: N/A | 24K: Mua=14,520, Bán=14,870 | DOJI HCM Lẻ: Mua=148300.0, Bán=150300.0
+[2025-11-20 17:24:13] Cập nhật XML lúc: N/A | 24K: Mua=14,520, Bán=14,870 | DOJI HCM Lẻ: Mua=148300000.0, Bán=150300000.0
