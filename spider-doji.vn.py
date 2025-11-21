@@ -202,7 +202,7 @@ def log_data_to_supabase(data):
         return False
 
 if __name__ == "__main__":
-    if check_run_frequency():
+    if True: #check_run_frequency():
         print("Đã đến lúc chạy. Đang thực hiện tác vụ tải giá vàng...")
         gold_data = fetch_and_parse_gold_price()
         log_data(gold_data)
